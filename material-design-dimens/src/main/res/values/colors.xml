@@ -13,6 +13,9 @@
 -->
 <resources>
     <!-- https://www.google.com/design/spec/style/color.html#color-color-palette -->
+    <!-- https://developer.android.com/reference/android/support/design/R.color.html -->
+    <!-- https://developer.android.com/reference/android/R.color.html -->
+    <!-- https://developer.android.com/reference/android/graphics/Color.html -->
     <!-- Material design color palette -->
     <!-- Red -->
     <color name="material_red_50">#FFEBEE</color>
