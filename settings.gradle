@@ -1,1 +1,1 @@
-include ':material-design-dimens'
+include ':material-design-dimens', ':sample'
