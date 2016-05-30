@@ -1,7 +1,29 @@
 # Material Design Dimens
-[![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/DmitryMalkovich/material-design-dimens/blob/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/DmitryMalkovich/material-design-dimens/blob/master/LICENSE.md) [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg)]() [![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)]()
 
-Default margins, paddings and sizes from Material Design guidelines.
+ Colors, margins, paddings and sizes from [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) inside one library. Instead of copying values from Material Design guidelines, simple use it with default IDE code completion.
+
+| Color | Pattern |
+| --- | --- |
+| Red | R.color.material_red_ |
+| Pink | R.color.material_pink_  |
+| Purple | ... |
+| Deep Purple | ... |
+| Indigo | ... |
+| Blue | ... |
+| Light Blue | ... |
+| Cyan | ... |
+| Teal | ... |
+| Green | ... |
+| Light Green | ... |
+| Lime | ... |
+| Yellow | ... |
+| Amber | ... |
+| Orange | ... |
+| Deep Orange | ... |
+| Brown | ... |
+| Grey | ... |
+| Blue Grey | ... |
 
 ## License
 
