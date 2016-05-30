@@ -1,20 +1,55 @@
 # Material Design Dimens
 [![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/DmitryMalkovich/material-design-dimens/blob/master/LICENSE.md) [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg)]() [![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)]()
 
- Colors and dimens from [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) inside one library. Instead of copying values from Material Design guidelines, simple use it with default IDE code completion.
+ Colors and dimens from [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) inside one library.
+
+## Dimens
+
+| Dimens | Pattern | 
+| --- | --- |
+| Layout | R.dimen.material_layout |
+| Components | R.dimen.material_components |
+
+* Bottom sheets
+* Bottom navigation
+* Buttons 
+* Buttons: Floating Action Button
+* Cards
+* Chips
+* Data tables
+* Dialogs
+* Dividers
+* Expansion panels
+* Grid lists
+* Lists
+* Lists: Controls
+* Menus
+* Pickers
+* Progress & activity
+* Selection controls
+* Sliders
+* Snackbars & toasts
+* Steppers
+* Subheaders
+* Tabs
+* Text fields
+* Toolbars
+* Tooltips
+
+## Color palette
 
 | Color | Pattern | Color | Pattern |
 | --- | --- | --- | --- |
-| Red | R.color.material_red_ | Green | R.color.material_green_ |
-| Pink | R.color.material_pink_  | Light Green | R.color.material_light_green_ |
-| Purple | R.color.material_purple_ | Lime | R.color.material_lime_ |
-| Deep Purple | R.color.material_deep_purple_ | Yellow | R.color.material_yellow_ |
-| Indigo | R.color.material_indigo_ | Amber | R.color.material_amber_ |
-| Blue | R.color.material_blue_ | Orange | R.color.material_orange_ |
-| Light Blue | R.color.material_light_blue_ | Deep Orange | R.color.material_deep_orange_ |
-| Cyan | R.color.material_cyan_ | Brown | R.color.material_brown_ |
-| Teal | R.color.material_teal_ | Grey | R.color.material_grey_ |
-| Blue Grey | R.color.material_blue_grey_ | | |
+| Red | R.color.material_red | Green | R.color.material_green |
+| Pink | R.color.material_pink  | Light Green | R.color.material_light_green |
+| Purple | R.color.material_purple | Lime | R.color.material_lime |
+| Deep Purple | R.color.material_deep_purple | Yellow | R.color.material_yellow |
+| Indigo | R.color.material_indigo | Amber | R.color.material_amber |
+| Blue | R.color.material_blue | Orange | R.color.material_orange |
+| Light Blue | R.color.material_light_blue | Deep Orange | R.color.material_deep_orange |
+| Cyan | R.color.material_cyan | Brown | R.color.material_brown |
+| Teal | R.color.material_teal | Grey | R.color.material_grey |
+| Blue Grey | R.color.material_blue_grey | | |
 
 
 ## License
