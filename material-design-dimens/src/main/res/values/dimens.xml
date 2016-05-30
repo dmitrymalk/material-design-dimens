@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  Copyright 2016.  Dmitry Malkovich
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+      http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<resources>
+    <!-- Layout -->
+        <!-- Metrics & Keylines -->
+        <!-- https://www.google.com/design/spec/layout/metrics-keylines.html#metrics-keylines-keylines-spacing -->
+    <dimen name="material_layout_keylines_screen_edge_margin">16dp</dimen>
+    <dimen name="material_layout_keylines_avatar_margin">72dp</dimen>
+    <dimen name="material_layout_keylines_horizontal_margin">16dp</dimen>
+    <dimen name="material_layout_vertical_spacing_status_bar">24dp</dimen>
+    <dimen name="material_layout_vertical_spacing_tool_bar">56dp</dimen>
+    <dimen name="material_layout_vertical_spacing_subtitle">48dp</dimen>
+    <dimen name="material_layout_vertical_spacing_list_item">72dp</dimen>
+    <dimen name="material_layout_vertical_spacing_content_areas">8dp</dimen>
+    <dimen name="material_layout_vertical_spacing_right_side_icons">32dp</dimen>
+    <dimen name="material_layout_vertical_spacing_navigation_right_margin">56dp</dimen>
+    <dimen name="material_layout_vertical_spacing_account_menu_and_list_items">48dp</dimen>
+    <dimen name="material_layout_avatar">40dp</dimen>
+    <dimen name="material_layout_icon">24dp</dimen>
+    <dimen name="material_layout_touch_target">48dp</dimen>
+    <dimen name="material_layout_button_height">36dp</dimen>
+        <!-- Structure -->
+    <dimen name="material_layout_app_bar_height">56dp</dimen>
+    <dimen name="material_layout_app_bar_horizontal_padding">16dp</dimen>
+    <dimen name="material_layout_app_bar_icon_padding">16dp</dimen>
+    <dimen name="material_layout_app_bar_title_left_padding">72dp</dimen>
+    <dimen name="material_layout_app_bar_title_bottom_padding">20dp</dimen>
+        <!-- Responsive UI -->
+        <!-- Split screen -->
+    <!-- Components -->
+    <!-- https://www.google.com/design/spec/components/bottom-navigation.html -->
+        <!-- Bottom sheets -->
+        <!-- Bottom navigation -->
+        <!-- Buttons -->
+        <!-- Buttons: Floating Action Button -->
+        <!-- Cards -->
+        <!-- Chips -->
+        <!-- Data tables -->
+        <!-- Dialogs -->
+        <!-- Dividers -->
+        <!-- Expansion panels -->
+        <!-- Grid lists -->
+        <!-- Lists -->
+        <!-- Lists: Controls -->
+        <!-- Menus -->
+        <!-- Pickers -->
+        <!-- Progress & activity -->
+        <!-- Selection controls -->
+        <!-- Sliders -->
+        <!-- Snackbars & toasts -->
+        <!-- Steppers -->
+        <!-- Subheaders -->
+        <!-- Tabs -->
+        <!-- Text fields -->
+        <!-- Toolbars -->
+        <!-- Tooltips -->
+</resources>
