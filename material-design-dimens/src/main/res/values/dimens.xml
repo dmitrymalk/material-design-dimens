@@ -41,6 +41,18 @@
     <!-- Bottom sheets -->
     <!-- Bottom navigation -->
     <!-- Buttons -->
+        <dimen name="material_component_button_height">36dp</dimen>
+        <dimen name="material_component_button_dense_height">32dp</dimen>
+        <dimen name="material_component_button_min_width">88dp</dimen>
+        <dimen name="material_component_button_touchable_target_height">48dp</dimen>
+        <dimen name="material_component_button_corner_radius">2dp</dimen>
+        <dimen name="material_component_button_text_left_and_right_padding">16dp</dimen>
+        <dimen name="material_component_button_text_size">14pt</dimen>
+        <dimen name="material_component_button_dense_text_size">13pt</dimen>
+        <!-- Floating action button -->
+        <!-- Raised button -->
+        <!-- Flat button -->
+        <!-- Dense Button -->
     <!-- Buttons: Floating Action Button -->
     <!-- Cards -->
     <!-- Chips -->
