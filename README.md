@@ -3,20 +3,43 @@
 
  Colors and dimens from [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) inside one library.
  
-## Usage
+## Dimens
 
+**Pattern:**
+```
+R.dimen.material_[layout|component]_[button|...]
+R.color.material_[red|blue|...]_[500|800|...]
+```
+
+**Examples**
+```xml
+R.dimen.material_layout_keylines_screen_edge_margin 16dp
+R.dimen.material_layout_keylines_content_left_margin_from_screen_edge 72dp
+R.dimen.material_layout_vertical_spacing_between_content_areas 8dp
+
+R.dimen.material_component_button_height 36dp
+R.dimen.material_component_button_touchable_target_height 48dp
+
+R.dimen.material_component_floating_action_button_margin 16dp
+R.dimen.material_component_button_touchable_target_height 36dp
+
+R.color.material_blue_500 #2196F3
+R.color.material_blue_accent_100 #82B1FF
+```
+
+## Usage
 Just add the dependency to your `build.gradle`:
 ```
 compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 ```
 
+#### Layout
 
-## Dimens
+* Keylines
+* Spacing
+* ... (More comming soon)
 
-| Dimens | Pattern | 
-| --- | --- |
-| Layout | R.dimen.material_layout |
-| Components | R.dimen.material_components |
+#### Components
 
 * Bottom sheets
 * Buttons 
@@ -28,7 +51,7 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 * Progress & activity
 * Text fields
 * Toolbars
-* ...
+* ... (More comming soon)
 
 ## Color palette
 
