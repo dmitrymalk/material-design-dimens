@@ -2,6 +2,14 @@
 [![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/DmitryMalkovich/material-design-dimens/blob/master/LICENSE.md) [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg)]() [![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)]()
 
  Colors and dimens from [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) inside one library.
+ 
+## Usage
+
+Just add the dependency to your `build.gradle`:
+```
+compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
+```
+
 
 ## Dimens
 
@@ -11,30 +19,16 @@
 | Components | R.dimen.material_components |
 
 * Bottom sheets
-* Bottom navigation
 * Buttons 
-* Buttons: Floating Action Button
+* Floating Action Button
 * Cards
-* Chips
-* Data tables
 * Dialogs
-* Dividers
-* Expansion panels
 * Grid lists
 * Lists
-* Lists: Controls
-* Menus
-* Pickers
 * Progress & activity
-* Selection controls
-* Sliders
-* Snackbars & toasts
-* Steppers
-* Subheaders
-* Tabs
 * Text fields
 * Toolbars
-* Tooltips
+* ...
 
 ## Color palette
 
