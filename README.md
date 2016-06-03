@@ -27,13 +27,9 @@ R.dimen.material_layout_horizontal_spacing_between_content_areas 16dp
 ```
 
 ```xml
+R.dimen.material_component_floating_action_button_margin 16dp
 R.dimen.material_component_button_height 36dp
 R.dimen.material_component_button_touchable_target_height 48dp
-```
-
-```xml
-R.dimen.material_component_floating_action_button_margin 16dp
-R.dimen.material_component_button_touchable_target_height 36dp
 ```
 
 ```xml
