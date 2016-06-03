@@ -3,6 +3,12 @@
 
  Colors and dimens from [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) inside one library.
  
+## Usage
+Just add the dependency to your `build.gradle`:
+```
+compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
+```
+ 
 ## Dimens
 
 **Pattern:**
@@ -25,12 +31,6 @@ R.dimen.material_component_button_touchable_target_height 36dp
 
 R.color.material_blue_500 #2196F3
 R.color.material_blue_accent_100 #82B1FF
-```
-
-## Usage
-Just add the dependency to your `build.gradle`:
-```
-compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 ```
 
 #### Layout
