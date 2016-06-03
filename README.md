@@ -53,22 +53,6 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 * Toolbars
 * ... (More comming soon)
 
-## Color palette
-
-| Color | Pattern | Color | Pattern |
-| --- | --- | --- | --- |
-| Red | R.color.material_red | Green | R.color.material_green |
-| Pink | R.color.material_pink  | Light Green | R.color.material_light_green |
-| Purple | R.color.material_purple | Lime | R.color.material_lime |
-| Deep Purple | R.color.material_deep_purple | Yellow | R.color.material_yellow |
-| Indigo | R.color.material_indigo | Amber | R.color.material_amber |
-| Blue | R.color.material_blue | Orange | R.color.material_orange |
-| Light Blue | R.color.material_light_blue | Deep Orange | R.color.material_deep_orange |
-| Cyan | R.color.material_cyan | Brown | R.color.material_brown |
-| Teal | R.color.material_teal | Grey | R.color.material_grey |
-| Blue Grey | R.color.material_blue_grey | | |
-
-
 ## License
 
 Copyright 2016 Dmitry Malkovich
