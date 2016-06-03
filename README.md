@@ -45,16 +45,16 @@ R.color.material_blue_accent_100 #82B1FF
 
 #### Components
 
-* Bottom sheets
-* Buttons 
+* Bottom sheet
+* Button
 * Floating Action Button
-* Cards
-* Dialogs
-* Grid lists
-* Lists
+* Card
+* Dialog
+* Grid list
+* List
 * Progress & activity
-* Text fields
-* Toolbars
+* Text field
+* Toolbar
 * ... (More comming soon)
 
 ## License
