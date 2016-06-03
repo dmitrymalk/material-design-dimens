@@ -7,7 +7,7 @@
 
 **Pattern:**
 ```
-R.dimen.material_[layout|component]_[button|...]
+R.dimen.material_[layout|component]_[keylines|button|...]
 
 R.color.material_[red|blue|...]_[500|800|...]
 ```
