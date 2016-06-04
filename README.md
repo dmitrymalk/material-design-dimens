@@ -26,11 +26,11 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 
 Name | Dimens | Values
 ------------ | ------------- | -------------
-Padding around content area | `@dimen/material_component_dialogs_padding_around_content_area` |
-Padding between title and body text | `@dimen/material_component_dialogs_padding_between_title_and_body_text` |
-Padding around buttons | `@dimen/material_component_dialogs_padding_around_buttons` |
-Action area height | `@dimen/material_component_dialogs_action_area_height` |
-Dialog elevation | `@dimen/material_component_dialogs_elevation` |
+Padding around content area | `@dimen/material_component_dialogs_padding_around_content_area` | 24dp
+Padding between title and body text | `@dimen/material_component_dialogs_padding_between_title_and_body_text` | 20dp
+Padding around buttons | `@dimen/material_component_dialogs_padding_around_buttons` | 8dp
+Action area height | `@dimen/material_component_dialogs_action_area_height` | 52dp
+Dialog elevation | `@dimen/material_component_dialogs_elevation` | 24dp
 
 #### Metrics & Keylines
 
@@ -38,9 +38,9 @@ Dialog elevation | `@dimen/material_component_dialogs_elevation` |
 
 Name  | Dimens | Values
 ------------ | ------------- | -------------
-Screen edge left and right margins | `@dimen/material_layout_keylines_screen_edge_margin` |
-Content associated with an icon or avatar left margin | `@dimen/material_layout_keylines_content_left_margin_from_screen_edge` | 
-Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobile_margin` |
+Screen edge left and right margins | `@dimen/material_layout_keylines_screen_edge_margin` | 16dp
+Content associated with an icon or avatar left margin | `@dimen/material_layout_keylines_content_left_margin_from_screen_edge` | 72dp
+Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobile_margin` | 16dp
 
 #### Cards
 
@@ -48,11 +48,11 @@ Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobil
 
 Name  | Dimens | Values
 ------------ | ------------- | -------------
-Primary title top padding | `@dimen/material_component_cards_primary_title_top_padding` |
-Primary title bottom padding | `@dimen/material_component_cards_primary_title_bottom_padding` |
-Action button row padding | `@dimen/material_component_cards_action_button_row_padding` |
-Supporting text top padding | `@dimen/material_component_cards_supporting_text_top_padding` |
-Supporting text bottom padding | `@dimen/material_component_cards_supporting_text_bottom_padding` |
+Primary title top padding | `@dimen/material_component_cards_primary_title_top_padding` | 24dp
+Primary title bottom padding | `@dimen/material_component_cards_primary_title_bottom_padding` | 16dp
+Action button row padding | `@dimen/material_component_cards_action_button_row_padding` | 8dp
+Supporting text top padding | `@dimen/material_component_cards_supporting_text_top_padding` | 16dp
+Supporting text bottom padding | `@dimen/material_component_cards_supporting_text_bottom_padding` | 24dp
 
 #### Floating Action Buttons
 
@@ -60,19 +60,19 @@ Supporting text bottom padding | `@dimen/material_component_cards_supporting_tex
 
 Name  | Dimens | Values
 ------------ | ------------- | -------------
- | @dimen/material_component_floating_action_button_margin |
- | @dimen/material_component_button_height |
- | @dimen/material_component_button_touchable_target_height |
+ | @dimen/material_component_floating_action_button_margin | 16dp
+ | @dimen/material_component_button_height | 36dp
+ | @dimen/material_component_button_touchable_target_height | 48dp
 
-#### Color Pallete
+#### Color Palette
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
 
 Name  | Colors | Value
 ------------ | ------------- | -------------
- | @color/material_indigo_100 |
- | @color/material_indigo_500 |
- | @color/material_indigo_700 |
+ | @color/material_indigo_100 | #C5CAE9
+ | @color/material_indigo_500 | #3F51B5
+ | @color/material_indigo_700 | #303F9F
 
 #### Layout
 
