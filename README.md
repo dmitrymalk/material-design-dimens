@@ -37,13 +37,13 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 @color/material_blue_accent_100 #82B1FF
 ```
 
-<img width="359" alt="screen shot 2016-04-17 at 20 00 03" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
+<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
 
-* Primary title top padding:           @dimen/material_component_cards_primary_title_top_padding
-* Primary title bottom padding:        @dimen/material_component_cards_primary_title_bottom_padding
-* Action button row padding:           @dimen/material_component_cards_action_button_row_padding
-* Supporting text top padding:         @dimen/material_component_cards_supporting_text_top_padding
-* "Supporting text bottom padding:     @dimen/material_component_cards_supporting_text_bottom_padding
+* Primary title top padding:           `@dimen/material_component_cards_primary_title_top_padding`
+* Primary title bottom padding:        `@dimen/material_component_cards_primary_title_bottom_padding`
+* Action button row padding:           `@dimen/material_component_cards_action_button_row_padding`
+* Supporting text top padding:         `@dimen/material_component_cards_supporting_text_top_padding`
+* Supporting text bottom padding:      `@dimen/material_component_cards_supporting_text_bottom_padding`
 
 #### Layout
 
