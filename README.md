@@ -22,7 +22,7 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 
 #### Dialogs
 
-<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png"/>
+<img width="600" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png"/>
 
 Name | Dimens
 ------------ | -------------
@@ -34,7 +34,7 @@ Dialog elevation | `@dimen/material_component_dialogs_elevation`
 
 #### Metrics & Keylines
 
-<img width="360" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
+<img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
 
 Name  | Dimens
 ------------ | -------------
@@ -44,7 +44,7 @@ Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobil
 
 #### Cards
 
-<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
+<img width="600" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
 
 Name | Dimens
 ------------ | -------------
@@ -56,7 +56,7 @@ Supporting text bottom padding | `@dimen/material_component_cards_supporting_tex
 
 #### Floating Action Buttons
 
-<img width="270" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
+<img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
 
 Name | Dimens
 ------------ | -------------
@@ -66,7 +66,7 @@ Name | Dimens
 
 #### Color Pallete
 
-<img width="270" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
+<img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
 
 ```xml
 @color/material_indigo_100
