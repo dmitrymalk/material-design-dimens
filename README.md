@@ -20,36 +20,41 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 
 ## Examples
 
+<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png"/>
+
+Name | Dimen
+------------ | -------------
+Padding around content area | `@dimen/material_component_dialogs_padding_around_content_area`
+Padding between title and body text | `@dimen/material_component_dialogs_padding_between_title_and_body_text`
+Padding around buttons | `@dimen/material_component_dialogs_padding_around_buttons`
+Action area height | `@dimen/material_component_dialogs_action_area_height`
+Dialog elevation | `@dimen/material_component_dialogs_elevation`
+
 <img width="360" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
 
-* Screen edge left and right margins: `@dimen/material_layout_keylines_screen_edge_margin`
-* Content associated with an icon or avatar left margin: `@dimen/material_layout_keylines_content_left_margin_from_screen_edge`
-* Horizontal margins on mobile: `@dimen/material_layout_keylines_horizontal_mobile_margin`
+Name | Dimen
+------------ | -------------
+Screen edge left and right margins | `@dimen/material_layout_keylines_screen_edge_margin`
+Content associated with an icon or avatar left margin | `@dimen/material_layout_keylines_content_left_margin_from_screen_edge`
+Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobile_margin`
 
 <img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
 
-* Primary title top padding:           `@dimen/material_component_cards_primary_title_top_padding`
-* Primary title bottom padding:        `@dimen/material_component_cards_primary_title_bottom_padding`
-* Action button row padding:           `@dimen/material_component_cards_action_button_row_padding`
-* Supporting text top padding:         `@dimen/material_component_cards_supporting_text_top_padding`
-* Supporting text bottom padding:      `@dimen/material_component_cards_supporting_text_bottom_padding`
-
-<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png"/>
-
-* Padding around content area: `@dimen/material_component_dialogs_padding_around_content_area`
-* Padding between title and body text: `@dimen/material_component_dialogs_padding_between_title_and_body_text`
-* Padding around buttons: `@dimen/material_component_dialogs_padding_around_buttons`
-* Action area height: `@dimen/material_component_dialogs_action_area_height`
-* Dialog elevation: `@dimen/material_component_dialogs_elevation`
-
+Name | Dimen
+------------ | -------------
+Primary title top padding | `@dimen/material_component_cards_primary_title_top_padding`
+Primary title bottom padding | `@dimen/material_component_cards_primary_title_bottom_padding`
+Action button row padding | `@dimen/material_component_cards_action_button_row_padding`
+Supporting text top padding | `@dimen/material_component_cards_supporting_text_top_padding`
+Supporting text bottom padding | `@dimen/material_component_cards_supporting_text_bottom_padding`
 
 <img width="270" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
 
-```xml
-@dimen/material_component_floating_action_button_margin
-@dimen/material_component_button_height
-@dimen/material_component_button_touchable_target_height
-```
+Name | Dimen
+------------ | -------------
+ | @dimen/material_component_floating_action_button_margin
+ | @dimen/material_component_button_height
+ | @dimen/material_component_button_touchable_target_height
 
 <img width="270" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
 
