@@ -74,13 +74,13 @@ Name  | Colors | Value
  | @color/material_indigo_500 | #3F51B5
  | @color/material_indigo_700 | #303F9F
 
-#### Layout
+### Layout
 
 * Keylines
 * Spacing
 * ... (More comming soon)
 
-#### Components
+### Components
 
 * Bottom sheet
 * Button
