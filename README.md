@@ -24,74 +24,78 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 
 <img width="600" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png"/>
 
-Name | Dimens
------------- | -------------
-Padding around content area | `@dimen/material_component_dialogs_padding_around_content_area`
-Padding between title and body text | `@dimen/material_component_dialogs_padding_between_title_and_body_text`
-Padding around buttons | `@dimen/material_component_dialogs_padding_around_buttons`
-Action area height | `@dimen/material_component_dialogs_action_area_height`
-Dialog elevation | `@dimen/material_component_dialogs_elevation`
+Name | Dimens | Values
+------------ | ------------- | -------------
+Padding around content area | `@dimen/material_component_dialogs_padding_around_content_area` | 24dp
+Padding between title and body text | `@dimen/material_component_dialogs_padding_between_title_and_body_text` | 20dp
+Padding around buttons | `@dimen/material_component_dialogs_padding_around_buttons` | 8dp
+Action area height | `@dimen/material_component_dialogs_action_area_height` | 52dp
+Dialog elevation | `@dimen/material_component_dialogs_elevation` | 24dp
+
 
 #### Metrics & Keylines
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
 
-Name  | Dimens
------------- | -------------
-Screen edge left and right margins | `@dimen/material_layout_keylines_screen_edge_margin`
-Content associated with an icon or avatar left margin | `@dimen/material_layout_keylines_content_left_margin_from_screen_edge`
-Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobile_margin`
+Name  | Dimens | Values
+------------ | ------------- | -------------
+Screen edge left and right margins | `@dimen/material_layout_keylines_screen_edge_margin` | 16dp
+Content associated with an icon or avatar left margin | `@dimen/material_layout_keylines_content_left_margin_from_screen_edge` | 72dp
+Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobile_margin` | 16dp
+
 
 #### Cards
 
 <img width="600" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
 
-Name | Dimens
------------- | -------------
-Primary title top padding | `@dimen/material_component_cards_primary_title_top_padding`
-Primary title bottom padding | `@dimen/material_component_cards_primary_title_bottom_padding`
-Action button row padding | `@dimen/material_component_cards_action_button_row_padding`
-Supporting text top padding | `@dimen/material_component_cards_supporting_text_top_padding`
-Supporting text bottom padding | `@dimen/material_component_cards_supporting_text_bottom_padding`
+Name  | Dimens | Values
+------------ | ------------- | -------------
+Primary title top padding | `@dimen/material_component_cards_primary_title_top_padding` | 24dp
+Primary title bottom padding | `@dimen/material_component_cards_primary_title_bottom_padding` | 16dp
+Action button row padding | `@dimen/material_component_cards_action_button_row_padding` | 8dp
+Supporting text top padding | `@dimen/material_component_cards_supporting_text_top_padding` | 16dp
+Supporting text bottom padding | `@dimen/material_component_cards_supporting_text_bottom_padding` | 24dp
+
 
 #### Floating Action Buttons
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
 
-Name | Dimens
------------- | -------------
- | @dimen/material_component_floating_action_button_margin
- | @dimen/material_component_button_height
- | @dimen/material_component_button_touchable_target_height
+Dimens | Values
+------------- | -------------
+ @dimen/material_component_floating_action_button_margin | 16dp
+ @dimen/material_component_button_height | 36dp
+ @dimen/material_component_button_touchable_target_height | 48dp
 
-#### Color Pallete
+
+#### Color Palette
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
 
-```xml
-@color/material_indigo_100
-@color/material_indigo_500
-@color/material_indigo_700
-```
+Colors | Value
+------------- | -------------
+ @color/material_indigo_100 | #C5CAE9
+ @color/material_indigo_500 | #3F51B5
+ @color/material_indigo_700 | #303F9F
 
-#### Layout
+## Layout
 
 * Keylines
 * Spacing
 * ... (More comming soon)
 
-#### Components
+## Components
 
-* Bottom sheet
-* Button
-* Floating Action Button
-* Card
-* Dialog
-* Grid list
-* List
+* Bottom sheets
+* Buttons
+* Floating Action Buttons
+* Cards
+* Dialogs
+* Grid lists
+* Lists
 * Progress & activity
-* Text field
-* Toolbar
+* Text fields
+* Toolbars
 * ... (More comming soon)
 
 ## Contributing
