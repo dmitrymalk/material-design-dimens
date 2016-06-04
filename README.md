@@ -93,7 +93,6 @@ Colors | Value
 * Dialogs
 * Grid lists
 * Lists
-* Progress & activity
 * Text fields
 * Toolbars
 * ... (More comming soon)
