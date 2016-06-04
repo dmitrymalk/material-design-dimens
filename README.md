@@ -34,15 +34,21 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 * Supporting text top padding:         `@dimen/material_component_cards_supporting_text_top_padding`
 * Supporting text bottom padding:      `@dimen/material_component_cards_supporting_text_bottom_padding`
 
+
+<img width="230" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
+
 ```xml
 @dimen/material_component_floating_action_button_margin 16dp
 @dimen/material_component_button_height 36dp
 @dimen/material_component_button_touchable_target_height 48dp
 ```
 
+<img width="230" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
+
 ```xml
-@color/material_blue_500 #2196F3
-@color/material_blue_accent_100 #82B1FF
+@color/material_indigo_500
+@color/material_indigo_100
+@color/material_indigo_700
 ```
 
 #### Layout
