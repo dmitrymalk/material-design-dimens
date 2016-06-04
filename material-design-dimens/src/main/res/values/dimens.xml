@@ -78,6 +78,12 @@
     <!-- Dividers -->
     <!-- Expansion panels -->
     <!-- Grid lists -->
+    <dimen name="material_component_grid_lists_header_footer_height">48dp</dimen>
+    <dimen name="material_component_grid_lists_header_footer_text_padding">16dp</dimen>
+    <dimen name="material_component_grid_lists_header_footer_text_size">16sp</dimen>
+    <dimen name="material_component_grid_lists_two_line_header_footer_height">68dp</dimen>
+    <dimen name="material_component_grid_lists_small_padding">4dp</dimen>
+    <dimen name="material_component_grid_lists_big_padding">1dp</dimen>
     <!-- Lists -->
     <!-- Lists: Controls -->
     <!-- Menus -->
