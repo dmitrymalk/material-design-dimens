@@ -32,6 +32,7 @@ Padding around buttons | `@dimen/material_component_dialogs_padding_around_butto
 Action area height | `@dimen/material_component_dialogs_action_area_height` | 52dp
 Dialog elevation | `@dimen/material_component_dialogs_elevation` | 24dp
 
+
 #### Metrics & Keylines
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
@@ -41,6 +42,7 @@ Name  | Dimens | Values
 Screen edge left and right margins | `@dimen/material_layout_keylines_screen_edge_margin` | 16dp
 Content associated with an icon or avatar left margin | `@dimen/material_layout_keylines_content_left_margin_from_screen_edge` | 72dp
 Horizontal margins on mobile | `@dimen/material_layout_keylines_horizontal_mobile_margin` | 16dp
+
 
 #### Cards
 
@@ -54,6 +56,7 @@ Action button row padding | `@dimen/material_component_cards_action_button_row_p
 Supporting text top padding | `@dimen/material_component_cards_supporting_text_top_padding` | 16dp
 Supporting text bottom padding | `@dimen/material_component_cards_supporting_text_bottom_padding` | 24dp
 
+
 #### Floating Action Buttons
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
@@ -63,6 +66,7 @@ Name  | Dimens | Values
  | @dimen/material_component_floating_action_button_margin | 16dp
  | @dimen/material_component_button_height | 36dp
  | @dimen/material_component_button_touchable_target_height | 48dp
+
 
 #### Color Palette
 
