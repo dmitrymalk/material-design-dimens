@@ -57,6 +57,10 @@ R.color.material_blue_accent_100 #82B1FF
 * Toolbar
 * ... (More comming soon)
 
+## Contributing
+
+Want to add your favorites dimens, just make pull request! 
+
 ## License
 
 Copyright 2016 Dmitry Malkovich
