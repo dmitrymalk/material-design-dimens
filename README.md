@@ -18,7 +18,7 @@ Just add the dependency to your `build.gradle`:
 compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 ```
 
-**Examples**
+## Examples
 
 <img width="360" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
 
