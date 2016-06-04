@@ -39,6 +39,10 @@
     <!-- Components -->
     <!-- https://www.google.com/design/spec/components/bottom-navigation.html -->
     <!-- Bottom sheets -->
+    <dimen name="material_component_bottom_sheet_edge_left_right_margins">16dp</dimen>
+    <dimen name="material_component_bottom_sheet_edge_top_bottom_margins">8dp</dimen>
+    <dimen name="material_component_bottom_sheet_list_item_height">48dp</dimen>
+    <dimen name="material_component_bottom_sheet_list_item_text_horizontal_padding">32dp</dimen>
     <!-- Bottom navigation -->
     <!-- Buttons -->
         <dimen name="material_component_button_height">36dp</dimen>
@@ -54,6 +58,9 @@
         <!-- Flat button -->
         <!-- Dense Button -->
     <!-- Buttons: Floating Action Button -->
+    <dimen name="material_component_floating_action_button_margin">16dp</dimen><!-- 24dp for tablet -->
+    <dimen name="material_component_floating_action_button_size">56dp</dimen>
+    <dimen name="material_component_floating_action_button_mini_size">40dp</dimen>
     <!-- Cards -->
     <!-- Chips -->
     <!-- Data tables -->
