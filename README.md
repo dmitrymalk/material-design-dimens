@@ -61,22 +61,22 @@ Supporting text bottom padding | `@dimen/material_component_cards_supporting_tex
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
 
-Name  | Dimens | Values
------------- | ------------- | -------------
- | @dimen/material_component_floating_action_button_margin | 16dp
- | @dimen/material_component_button_height | 36dp
- | @dimen/material_component_button_touchable_target_height | 48dp
+Dimens | Values
+------------- | -------------
+ @dimen/material_component_floating_action_button_margin | 16dp
+ @dimen/material_component_button_height | 36dp
+ @dimen/material_component_button_touchable_target_height | 48dp
 
 
 #### Color Palette
 
 <img width="300" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7Ym1sRkstSzYtZmM/style_color_uiapplication_palette1.png"/>
 
-Name  | Colors | Value
------------- | ------------- | -------------
- | @color/material_indigo_100 | #C5CAE9
- | @color/material_indigo_500 | #3F51B5
- | @color/material_indigo_700 | #303F9F
+Colors | Value
+------------- | -------------
+ @color/material_indigo_100 | #C5CAE9
+ @color/material_indigo_500 | #3F51B5
+ @color/material_indigo_700 | #303F9F
 
 ## Layout
 
@@ -86,16 +86,16 @@ Name  | Colors | Value
 
 ## Components
 
-* Bottom sheet
-* Button
-* Floating Action Button
-* Card
-* Dialog
-* Grid list
-* List
+* Bottom sheets
+* Buttons
+* Floating Action Buttons
+* Cards
+* Dialogs
+* Grid lists
+* Lists
 * Progress & activity
-* Text field
-* Toolbar
+* Text fields
+* Toolbars
 * ... (More comming soon)
 
 ## Contributing
