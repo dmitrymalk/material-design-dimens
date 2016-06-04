@@ -108,6 +108,15 @@
     <!-- Subheaders -->
     <!-- Tabs -->
     <!-- Text fields -->
+    <dimen name="material_component_text_fields_floating_label_height">72dp</dimen>
+    <dimen name="material_component_text_fields_floating_label_padding_above_label_text">16dp</dimen>
+    <dimen name="material_component_text_fields_floating_label_padding_between_label_and_input_text">8dp</dimen>
+    <dimen name="material_component_text_fields_floating_label_padding_below_input_text_including_divider">8dp</dimen>
+    <dimen name="material_component_text_fields_floating_label_padding_below_text_divider">8dp</dimen>
+    <dimen name="material_component_text_fields_icon_height">48dp</dimen>
+    <dimen name="material_component_text_fields_padding_above_and_below_label">16dp</dimen>
+    <dimen name="material_component_text_full_width_single_line_text_field_height">56dp</dimen>
+    <dimen name="material_component_text_full_width_single_line_text_field_text_top_and_bottom_padding">20dp</dimen>
     <!-- Toolbars -->
     <!-- Tooltips -->
 </resources>
