@@ -19,12 +19,20 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 ```
 
 **Examples**
-```xml
-@dimen/material_layout_keylines_screen_edge_margin 16dp
-@dimen/material_layout_keylines_content_left_margin_from_screen_edge 72dp
-@dimen/material_layout_vertical_spacing_between_content_areas 8dp
-@dimen/material_layout_horizontal_spacing_between_content_areas 16dp
-```
+
+<img width="360" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0B6Okdz75tqQseWRUbzJuUnpkNHM/layout_metrics_keyline_mobile2.png"/>
+
+* Screen edge left and right margins: `@dimen/material_layout_keylines_screen_edge_margin`
+* Content associated with an icon or avatar left margin: `@dimen/material_layout_keylines_content_left_margin_from_screen_edge`
+* Horizontal margins on mobile: `@dimen/material_layout_keylines_horizontal_mobile_margin`
+
+<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
+
+* Primary title top padding:           `@dimen/material_component_cards_primary_title_top_padding`
+* Primary title bottom padding:        `@dimen/material_component_cards_primary_title_bottom_padding`
+* Action button row padding:           `@dimen/material_component_cards_action_button_row_padding`
+* Supporting text top padding:         `@dimen/material_component_cards_supporting_text_top_padding`
+* Supporting text bottom padding:      `@dimen/material_component_cards_supporting_text_bottom_padding`
 
 ```xml
 @dimen/material_component_floating_action_button_margin 16dp
@@ -36,14 +44,6 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 @color/material_blue_500 #2196F3
 @color/material_blue_accent_100 #82B1FF
 ```
-
-<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3bElRc0xaZGR4S0E/components_cards20.png"/>
-
-* Primary title top padding:           `@dimen/material_component_cards_primary_title_top_padding`
-* Primary title bottom padding:        `@dimen/material_component_cards_primary_title_bottom_padding`
-* Action button row padding:           `@dimen/material_component_cards_action_button_row_padding`
-* Supporting text top padding:         `@dimen/material_component_cards_supporting_text_top_padding`
-* Supporting text bottom padding:      `@dimen/material_component_cards_supporting_text_bottom_padding`
 
 #### Layout
 
