@@ -85,6 +85,18 @@
     <dimen name="material_component_grid_lists_padding_big">4dp</dimen>
     <dimen name="material_component_grid_lists_padding_small">1dp</dimen>
     <!-- Lists -->
+    <dimen name="material_component_lists_icon_left_padding">16dp</dimen>
+    <dimen name="material_component_lists_text_left_padding">72dp</dimen>
+    <dimen name="material_component_lists_right_padding">16dp</dimen>
+    <dimen name="material_component_lists_single_line_height">48dp</dimen>
+    <dimen name="material_component_lists_padding_above_list">8dp</dimen>
+    <dimen name="material_component_lists_single_line_with_avatar_height">56dp</dimen>
+    <dimen name="material_component_lists_single_line_text_size">16sp</dimen>
+    <dimen name="material_component_lists_two_line_height">56dp</dimen>
+    <dimen name="material_component_lists_two_line_text_size">16sp</dimen>
+    <dimen name="material_component_lists_two_line_secondary_text_size">14sp</dimen>
+    <dimen name="material_component_lists_three_line_height">88dp</dimen>
+    <dimen name="material_component_lists_text_padding_bottom">20dp</dimen>
     <!-- Lists: Controls -->
     <!-- Menus -->
     <!-- Pickers -->
