@@ -34,6 +34,14 @@ compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
 * Supporting text top padding:         `@dimen/material_component_cards_supporting_text_top_padding`
 * Supporting text bottom padding:      `@dimen/material_component_cards_supporting_text_bottom_padding`
 
+<img width="660" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bzhp5Z4wHba3c3htV1IweVNKcFU/components_dialogs_updates1.png"/>
+
+* Padding around content area: `@dimen/material_component_dialogs_padding_around_content_area`
+* Padding between title and body text: `@dimen/material_component_dialogs_padding_between_title_and_body_text`
+* Padding around buttons: `@dimen/material_component_dialogs_padding_around_buttons`
+* Action area height: `@dimen/material_component_dialogs_action_area_height`
+* Dialog elevation: `@dimen/material_component_dialogs_elevation`
+
 
 <img width="270" src="https://material-design.storage.googleapis.com/publish/material_v_8/material_ext_publish/0Bx4BSt6jniD7dkNVa080Ykd0ejg/patterns_actions_fab3.png"/>
 
