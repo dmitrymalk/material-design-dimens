@@ -15,7 +15,7 @@ R.color.material_[red|blue|...]_[500|800|...]
 ## Usage
 Just add the dependency to your `build.gradle`:
 ```
-compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
+compile 'com.dmitrymalkovich.android:material-design-dimens:1.2'
 ```
 
 ## Examples
