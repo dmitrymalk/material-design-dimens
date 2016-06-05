@@ -103,8 +103,8 @@ Want to add your favorites dimens, just make pull request!
 
 ### External contributors
 
-[FaizMalkani](https://github.com/FaizMalkani)
-[Jawnnypoo] (https://github.com/Jawnnypoo)
+* [FaizMalkani](https://github.com/FaizMalkani)
+* [Jawnnypoo] (https://github.com/Jawnnypoo)
 
 ## License
 
