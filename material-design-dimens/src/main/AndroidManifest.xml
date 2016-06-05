@@ -1,14 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.dmitrymalkovich.android.materialdesigndimens">
+<manifest package="com.dmitrymalkovich.android.materialdesigndimens">
 
-    <application
-        android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:supportsRtl="true"
-        android:theme="@style/AppTheme"
-        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
-
-    </application>
+    <application />
 
 </manifest>
