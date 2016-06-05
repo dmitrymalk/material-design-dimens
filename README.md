@@ -101,6 +101,10 @@ Colors | Value
 
 Want to add your favorites dimens, just make pull request! 
 
+### External contributors
+
+[FaizMalkani](https://github.com/FaizMalkani)
+
 ## License
 
 Copyright 2016 Dmitry Malkovich
