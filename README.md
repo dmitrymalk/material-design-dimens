@@ -1,5 +1,7 @@
 # Material Design Dimens
 
+[![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/dmitrymalkovich/maven/material-design-dimens/view)
+
 Default colors and dimens per [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) and [Android Design guidelines](https://developer.android.com/design/index.html) inside one library. 
  
 ## Dimens
