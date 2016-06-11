@@ -1,5 +1,6 @@
 # Material Design Dimens
-[![GitHub license](https://img.shields.io/crates/l/rustc-serialize.svg)](https://github.com/DmitryMalkovich/material-design-dimens/blob/master/LICENSE.md) [![Maven Central](https://img.shields.io/maven-central/v/org.apache.maven/apache-maven.svg)](https://bintray.com/dmitrymalkovich/maven/material-design-dimens/view) [![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/dmitrymalkovich/maven/material-design-dimens/view)
+
+[![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg?maxAge=2592000)]() [![Bintray](https://img.shields.io/bintray/v/asciidoctor/maven/asciidoctorj.svg?maxAge=2592000)](https://bintray.com/dmitrymalkovich/maven/material-design-dimens/view) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Material%20Design%20Dimens-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/3675)
 
 Default colors and dimens per [Material Design guidelines](https://www.google.com/design/spec/material-design/introduction.html) and [Android Design guidelines](https://developer.android.com/design/index.html) inside one library. 
  
@@ -15,7 +16,7 @@ R.color.material_[red|blue|...]_[500|800|...]
 ## Usage
 Just add the dependency to your `build.gradle`:
 ```
-compile 'com.dmitrymalkovich.android:material-design-dimens:1.0'
+compile 'com.dmitrymalkovich.android:material-design-dimens:1.2'
 ```
 
 ## Examples
