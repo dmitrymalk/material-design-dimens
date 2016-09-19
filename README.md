@@ -8,7 +8,7 @@ Default colors and dimens per [Material Design guidelines](https://www.google.co
 
 **Pattern:**
 ```
-R.dimen.material_[layout|component]_[keylines|button|...]
+R.dimen.material_[layout|component|typography]_[keylines|button|...]
 
 R.color.material_[red|blue|...]_[500|800|...]
 ```
@@ -97,6 +97,10 @@ Colors | Value
 * Text fields
 * Toolbars
 * ... (More comming soon)
+
+## Typography
+
+* Font sizes
 
 ## Sample
 
