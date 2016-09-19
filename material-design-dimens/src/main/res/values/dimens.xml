@@ -12,6 +12,19 @@
 -->
 <resources>
     <!-- Default colors and dimens per Material Design guidelines (Last update: May 2016 release) -->
+    <!-- Style -->
+    <!-- Typography -->
+    <dimen name="material_typography_button">15sp</dimen>
+    <dimen name="material_typography_caption">13sp</dimen>
+    <dimen name="material_typography_body1">15sp</dimen>
+    <dimen name="material_typography_body2">15sp</dimen>
+    <dimen name="material_typography_subheading">17sp</dimen>
+    <dimen name="material_typography_title">21sp</dimen>
+    <dimen name="material_typography_headline">24sp</dimen>
+    <dimen name="material_typography_display1">34sp</dimen>
+    <dimen name="material_typography_display2">45sp</dimen>
+    <dimen name="material_typography_display3">56sp</dimen>
+    <dimen name="material_typography_display4">112sp</dimen>
     <!-- Layout -->
     <!-- Metrics & Keylines -->
     <!-- https://www.google.com/design/spec/layout/metrics-keylines.html#metrics-keylines-keylines-spacing -->
