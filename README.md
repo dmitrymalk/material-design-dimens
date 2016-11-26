@@ -104,7 +104,7 @@ Colors | Value
 
 ## Sample
 
-* [Analytics for Github](https://play.google.com/store/apps/details?id=com.dmitrymalkovich.android.githubanalytics)
+* [Analytics for GitHub](https://play.google.com/store/apps/details?id=com.dmitrymalkovich.android.githubanalytics)
 
 <img width="30%" vspace="20" hspace="20"  src="https://cloud.githubusercontent.com/assets/2931932/20639411/a5334464-b3d3-11e6-9645-6d7323983f3a.png" />
 
