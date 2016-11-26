@@ -104,6 +104,10 @@ Colors | Value
 
 ## Sample
 
+* [Analytics for Github](https://play.google.com/store/apps/details?id=com.dmitrymalkovich.android.githubanalytics)
+
+<img width="30%" vspace="20" hspace="20"  src="https://cloud.githubusercontent.com/assets/2931932/20639411/a5334464-b3d3-11e6-9645-6d7323983f3a.png" />
+
 * [Make Your App Material (XYZ reader)](https://github.com/DmitryMalkovich/make-your-app-material)
 
 <img width="30%" vspace="20" hspace="20"  src="https://cloud.githubusercontent.com/assets/2931932/17039819/dd38d6c8-4fa4-11e6-9914-e25d8764a759.png" /> <img width="30%" vspace="20" hspace="20" src="https://cloud.githubusercontent.com/assets/2931932/17039818/dd386b98-4fa4-11e6-9e67-6a500ba7c209.png" /> <img width="60%" hspace="20" vspace="20" src="https://cloud.githubusercontent.com/assets/2931932/17039817/dd37f898-4fa4-11e6-8001-6105bda2cac9.png" />
