@@ -58,6 +58,7 @@
     <dimen name="material_component_bottom_sheet_list_item_height">48dp</dimen>
     <dimen name="material_component_bottom_sheet_list_item_text_horizontal_padding">32dp</dimen>
     <!-- Bottom navigation -->
+    <dimen name="material_component_bottom_navigation_height">56dp</dimen>
     <!-- Buttons -->
     <dimen name="material_component_button_height">36dp</dimen>
     <dimen name="material_component_button_dense_height">32dp</dimen>
